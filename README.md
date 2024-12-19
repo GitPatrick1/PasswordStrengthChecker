@@ -7,7 +7,7 @@ Istruzioni per l'esecuzione
 Clone il repository:
 Copia codice
 
-git clone https://github.com/username/PasswordStrengthChecker.git
+git clone https://github.com/XxStoneManxX/PasswordStrengthChecker.git
 
 Naviga nella cartella del progetto:
 
